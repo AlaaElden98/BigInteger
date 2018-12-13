@@ -76,7 +76,7 @@ return Equal;
             sum=0;
 
         }
-        if((sNumber[0]-'0')+(b.sNumber[0]-'0')>9)
+        if((sNumber[s.Number.length()-1]-'0')+(b.sNumber[b.s.Number.length()-1]-'0')>9)
             s3+='1';
 
         reverse(s3.begin(),s3.end());
